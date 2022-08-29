@@ -1,0 +1,448 @@
+﻿,question,intention,label,features
+0,老年痴呆的描述,disease_describe,10,描述
+1,老年痴呆病人吃什么好,query_food,19,病人 吃
+2,老年痴呆的人群是哪些,query_infect_people,3,人群
+3,老年痴呆能报销吗,query_insurance,1,报销
+4,护理老年性痴呆患者,query_nursing,18,护理 患者
+5,老年痴呆有哪些诊断种类,query_diagnosis,16,诊断 种类
+6,老年痴呆的并发症,query_neopathy,13,并发症
+7,老年痴呆检查项目,query_checklist,15,检查 项目
+8,老年痴呆是啥,disease_describe,10,
+9,老年痴呆可以叫什么,query_alias,0,
+10,老年痴呆患病几率大么,query_infect_rate,2,患病 几率
+11,老年痴呆检测项目,query_checklist,15,检测 项目
+12,老年痴呆看什么部门,query_department,5,部门
+13,老年痴呆要花多少钱,query_money,9,要花 钱
+14,老年痴呆别称,query_alias,0,别称
+15,老年痴呆的并发症,query_neopathy,13,并发症
+16,老年痴呆治不好吗,query_cure_rate,7,治不好
+17,老年痴呆会传染吗,query_infect_way,4,会 传染
+18,老年痴呆与阿尔兹海默症,query_alias,0,阿尔兹
+19,老年痴呆的哪些并发症,query_neopathy,13,并发症
+20,老年痴呆针对老年人吗,query_infect_people,3,老年人
+21,老年痴呆要花钱不,query_money,9,花钱
+22,老年痴呆几率大么,query_infect_rate,2,几率
+23,老年痴呆挂哪个科,query_department,5,挂 科
+24,老年痴呆看多长时间,query_period,6,多长时间
+25,老年痴呆属于医保疾病吗,query_insurance,1,属于 医保 疾病
+26,老年痴呆好治疗吗,query_cure_rate,7,治疗
+27,老年痴呆是否有医保,query_insurance,1,是否 医保
+28,老年痴呆患病几率,query_infect_rate,2,患病 几率
+29,老年痴呆初期治疗方法,query_cureway,17,初期 治疗 方法
+30,老年痴呆诊断类型,query_diagnosis,16,诊断 类型
+31,老年痴呆传染吗,query_infect_way,4,传染
+32,老年痴呆病人注意吃什么,query_food,19,病人 注意 吃
+33,血管性痴呆和老年痴呆,query_cause,11,老年痴呆
+34,老年痴呆针对人群是哪些,query_infect_people,3,人群
+35,什么是老年痴呆？,disease_describe,10,
+36,老年痴呆的并发症,query_neopathy,13,并发症
+37,老年痴呆和阿尔兹海默症,query_alias,0,阿尔兹
+38,老年痴呆多少钱可以看好,query_money,9,钱 看好
+39,老年痴呆可以报销吗,query_insurance,1,报销
+40,老年痴呆要花钱不,query_money,9,花钱
+41,老年痴呆有哪些检查项目,query_checklist,15,检查 项目
+42,老年痴呆有医保吗,query_insurance,1,医保
+43,帕金森病是老年痴呆吗,disease_describe,10,帕金森病
+44,老年痴呆哪些并发症,query_neopathy,13,并发症
+45,老年痴呆的治疗时间持续多长,query_period,6,治疗 时间 持续 多长
+46,老年人预防老年痴呆,query_prevent,12,预防
+47,老年痴呆诊断类型,query_diagnosis,16,诊断 类型
+48,老年痴呆怎么用药治疗,query_curedrug,8,用药治疗
+49,怎样护理老年性痴呆患者,query_nursing,18,护理 患者
+50,老年痴呆看什么科,query_department,5,科
+51,老年痴呆有多大几率,query_infect_rate,2,几率
+52,血管性老年痴呆,query_cause,11,血管性
+53,铝老年痴呆,query_cause,11,铝
+54,老年痴呆得的几率,query_infect_rate,2,几率
+55,老年痴呆好治吗,query_cure_rate,7,好治
+56,老年痴呆针对老年人吗,query_infect_people,3,老年人
+57,老年痴呆骂人,query_symptom,14,骂人
+58,老年痴呆有会误诊吗,query_diagnosis,16,有会 误诊
+59,老年痴呆看哪个科室,query_department,5,科室
+60,老年痴呆看哪些项目,query_checklist,15,哪些项目
+61,老年痴呆花钱多少,query_money,9,花钱
+62,老年痴呆的迹象,query_symptom,14,迹象
+63,老年痴呆是怎么回事？,disease_describe,10,怎么回事
+64,吃什么预防老年痴呆,query_food,19,吃 预防
+65,老年痴呆传染吗,query_infect_way,4,传染
+66,老年痴呆的中医治疗,query_cureway,17,中医 治疗
+67,帕金森是不是老年痴呆,disease_describe,10,帕金森 是不是
+68,中度老年痴呆,query_symptom,14,中度
+69,老年痴呆可以治愈吗？,query_cure_rate,7,治愈
+70,老年痴呆检测项目,query_checklist,15,检测 项目
+71,老年痴呆能治好吗,query_period,6,能治好
+72,老年痴呆多吃什么好,query_food,19,吃
+73,导致老年痴呆的原因,query_cause,11,导致 原因
+74,老年痴呆治疗药物,query_curedrug,8,治疗 药物
+75,老年痴呆引起的疾病,query_neopathy,13,引起 疾病
+76,老年痴呆患病几率,query_infect_rate,2,患病 几率
+77,老年痴呆的治疗时间多长,query_period,6,治疗 时间 多长
+78,老年痴呆病人需要吃什么,query_food,19,病人 需要 吃
+79,看老年痴呆花钱厉害吗,query_money,9,花钱 厉害
+80,老年痴呆的检查项目有哪些,query_checklist,15,检查 项目
+81,年轻人会得老年痴呆吗,query_infect_people,3,年轻人 会得
+82,老年性痴呆患者护理方式,query_nursing,18,患者 护理 方式
+83,老年痴呆看科室,query_department,5,科室
+84,老年痴呆有哪些检查项目,query_checklist,15,检查 项目
+85,老年痴呆针对哪些人群,query_infect_people,3,人群
+86,老年痴呆国家医保吗,query_insurance,1,国家 医保
+87,老年痴呆吃什么营养品,query_food,19,吃 营养品
+88,重度老年痴呆,query_symptom,14,重度
+89,老年痴呆并发症哪些,query_neopathy,13,并发症
+90,老年痴呆传染性强吗,query_infect_way,4,传染性 强
+91,老年痴呆病因,query_cause,11,病因
+92,老年痴呆别称还有,query_alias,0,别称
+93,预防老年性痴呆的方法,query_prevent,12,预防 方法
+94,老年痴呆花钱多少,query_money,9,花钱
+95,老年痴呆失语怎么办,query_cureway,17,失语
+96,什么人容易患老年痴呆,query_infect_people,3,容易 患
+97,老年痴呆能活多久,query_period,6,活多久
+98,啥叫老年痴呆,disease_describe,10,
+99,老年痴呆不吃饭怎么办,query_cureway,17,吃饭
+100,老年痴呆早期症状表现,query_symptom,14,早期 症状 表现
+101,老年痴呆别称,query_alias,0,别称
+102,老年痴呆的表现症状,query_symptom,14,表现 症状
+103,老年痴呆会遗传吗,query_cause,11,会 遗传
+104,老年痴呆会传染吗,query_infect_way,4,会 传染
+105,老年痴呆诊断种类,query_diagnosis,16,诊断 种类
+106,老年痴呆能治吗,query_cure_rate,7,能治
+107,老年痴呆看什么科,query_department,5,科
+108,看老年痴呆费钱吗,query_money,9,费钱
+109,预防老年痴呆的方法,query_cureway,17,预防 方法
+110,老年痴呆都会得吗,query_infect_rate,2,会
+111,老年痴呆传染性,query_infect_way,4,传染性
+112,老年痴呆会传递吗,query_infect_way,4,会 传递
+113,老年性痴呆患者怎样护理,query_nursing,18,患者 护理
+114,老年痴呆的病程,query_period,6,病程
+115,老年痴呆并发症？,query_neopathy,13,并发症
+116,老年性痴呆患者的照顾方式,query_nursing,18,患者 照顾 方式
+117,老年痴呆会不会遗传,query_cause,11,会 不会 遗传
+118,老年痴呆治疗周期为,query_period,6,治疗 周期
+119,老年痴呆科室,query_department,5,科室
+120,老年痴呆是精神病吗,disease_describe,10,精神病
+121,老年痴呆前期征兆,query_symptom,14,前期 征兆
+122,老年痴呆的并发症,query_neopathy,13,并发症
+123,老年痴呆其他诊断情况,query_diagnosis,16,诊断 情况
+124,预防老年性痴呆的方法,query_prevent,12,预防 方法
+125,老年痴呆别称还有,query_alias,0,别称
+126,老年痴呆的检查项目有,query_checklist,15,检查 项目
+127,老年痴呆病人吃什么食物,query_food,19,病人 吃 食物
+128,什么原因导致老年痴呆,query_cause,11,原因 导致
+129,老年痴呆的预防,query_prevent,12,预防
+130,老年痴呆引起的疾病,query_neopathy,13,引起 疾病
+131,老年痴呆的治疗周期多长,query_period,6,治疗 周期 多长
+132,老年痴呆初期如何治疗,query_cureway,17,初期 治疗
+133,老年痴呆有医保吗,query_insurance,1,医保
+134,老年痴呆检测,query_checklist,15,检测
+135,老年痴呆会传染吗,query_infect_way,4,会 传染
+136,老年性痴呆患者怎么照顾,query_nursing,18,患者 照顾
+137,老年痴呆别称,query_alias,0,别称
+138,老年痴呆有医保吗,query_insurance,1,医保
+139,为什么会得老年痴呆,query_cause,11,会得
+140,老年痴呆针对哪类人.,query_infect_people,3,类人
+141,老年痴呆有传染性吗,query_infect_way,4,传染性
+142,老年痴呆病,disease_describe,10,病
+143,老年痴呆得的概率高吗,query_infect_rate,2,概率 高
+144,老年痴呆保健品,query_food,19,保健品
+145,老年痴呆挂什么科,query_department,5,挂 科
+146,老年痴呆花销多少,query_money,9,花销
+147,怎么缓解老年痴呆,query_prevent,12,缓解
+148,老年痴呆可以治愈吗,query_cure_rate,7,治愈
+149,老年痴呆去医院检查什么,query_checklist,15,医院 检查
+150,如何延缓老年痴呆,query_prevent,12,延缓
+151,什么人容易得老年痴呆,query_infect_people,3,容易
+152,老年痴呆治愈率高吗,query_cure_rate,7,治愈率 高
+153,老年痴呆怎么照顾,query_cureway,17,照顾
+154,老年痴呆病程,query_period,6,病程
+155,如何避免老年痴呆,query_prevent,12,避免
+156,老年痴呆有医保吗,query_insurance,1,医保
+157,早期老年痴呆吃什么药,query_curedrug,8,早期 吃 药
+158,老年痴呆治不好吗,query_cure_rate,7,治不好
+159,老年痴呆后期能活多久,query_prevent,12,后期 活多久
+160,老年痴呆患者,disease_describe,10,患者
+161,老年痴呆有几种类型,disease_describe,10,几种 类型
+162,年纪大都有老年痴呆吗,query_infect_rate,2,年纪 大都
+163,如何预防老年痴呆,query_prevent,12,预防
+164,老年痴呆前期,query_symptom,14,前期
+165,老年痴呆自测,query_diagnosis,16,自测
+166,老年痴呆并发症有什么,query_neopathy,13,并发症
+167,老年痴呆发病率,query_infect_rate,2,发病率
+168,老年痴呆一般多少钱能看好,query_money,9,钱能 看好
+169,防止老年性痴呆的方法,query_prevent,12,防止 方法
+170,老年痴呆治疗周期多长,query_period,6,治疗 周期 多长
+171,轻度老年痴呆,query_symptom,14,轻度
+172,老年痴呆病人吃啥食物,query_food,19,病人 吃 食物
+173,老年痴呆要检查什么,query_checklist,15,检查
+174,老年痴呆可以用医保吗,query_insurance,1,医保
+175,老年性痴呆患者怎照顾方式,query_nursing,18,患者 照顾 方式
+176,老年痴呆的别称呼,query_alias,0,称呼
+177,老年痴呆看多久,query_period,6,多久
+178,老年痴呆治病花多少钱,query_money,9,治病 花 钱
+179,老年痴呆诊断类型有哪些,query_diagnosis,16,诊断 类型
+180,老年痴呆针对哪类些人,query_infect_people,3,哪类
+181,老年痴呆传染性,query_infect_way,4,传染性
+182,老年痴呆可以医保吗,query_insurance,1,医保
+183,老年痴呆诊断情况,query_diagnosis,16,诊断 情况
+184,老年痴呆能不能痊愈,query_cure_rate,7,不能 痊愈
+185,老年痴呆有传染性不,query_infect_way,4,传染性
+186,老年痴呆是绝症吗,query_cure_rate,7,绝症
+187,如何防治老年痴呆,query_prevent,12,防治
+188,预防老年痴呆吃什么药,query_curedrug,8,预防 吃 药
+189,老年痴呆首选药,query_curedrug,8,首选 药
+190,老年痴呆属于医保疾病吗,query_insurance,1,属于 医保 疾病
+191,年纪大会老年痴呆吗,query_infect_rate,2,年纪 大会
+192,帕金森会老年痴呆吗,query_cause,11,帕金森 会
+193,缓解老年痴呆的药物,query_curedrug,8,缓解 药物
+194,中年人会得老年痴呆吗,query_infect_people,3,中年人 会得
+195,老年痴呆通过什么传染的,query_infect_way,4,传染
+196,老年痴呆并发症有什么,query_neopathy,13,并发症
+197,为什么会老年痴呆,query_cause,11,会
+198,老年痴呆中医,query_cureway,17,中医
+199,哪些因素可以诱发老年痴呆,query_cause,11,哪些因素 诱发
+200,老年痴呆不能吃什么,query_food,19,不能 吃
+201,老年痴呆要花多少money,query_money,9,要花 money
+202,老年痴呆医保情况,query_insurance,1,医保 情况
+203,老年痴呆后期,query_symptom,14,后期
+204,老年痴呆有什么科,query_department,5,科
+205,老年痴呆前期症状,query_symptom,14,前期 症状
+206,老年痴呆传染不,query_infect_way,4,传染
+207,老年痴呆的别名,query_alias,0,别名
+208,老年痴呆叫什么,query_alias,0,
+209,老年痴呆患病概率多少,query_infect_rate,2,患病 概率
+210,预防老年痴呆吃什么,query_food,19,预防 吃
+211,老年痴呆吃什么药最好,query_curedrug,8,吃 药 最好
+212,防止得老年性痴呆方法,query_prevent,12,防止 方法
+213,哪些人容易患老年痴呆,query_infect_people,3,容易 患
+214,老年痴呆怎么办,query_cureway,17,
+215,那种人容易得老年痴呆,query_infect_people,3,那种 容易
+216,帕金森病和老年痴呆,query_cause,11,帕金森病
+217,老年痴呆的诊断结果,query_diagnosis,16,诊断
+218,老年痴呆病人吃什么东西比较好,query_food,19,病人 吃 东西 比较
+219,老年痴呆能治愈吗,query_cure_rate,7,治愈
+220,老年痴呆持续周期,query_period,6,持续 周期
+221,防老年痴呆的食物,query_food,19,防 食物
+222,老年痴呆去医院检查什么,query_checklist,15,医院 检查
+223,老年痴呆能恢复吗,query_cure_rate,7,恢复
+224,打麻将预防老年痴呆,query_prevent,12,打麻将 预防
+225,老年性痴呆患者怎么护理,query_nursing,18,患者 护理
+226,哪个科室治疗老年痴呆,query_department,5,科室 治疗
+227,老年痴呆要花多少money,query_money,9,要花 money
+228,轻度老年痴呆吃什么药,query_curedrug,8,轻度 吃 药
+229,老年痴呆的描述,disease_describe,10,描述
+230,老年痴呆并发症有,query_neopathy,13,并发症
+231,老年痴呆最新治疗方法,query_cureway,17,最新 治疗 方法
+232,老年性痴呆患者怎么康复,query_nursing,18,患者 康复
+233,老年痴呆针对什么人群,query_infect_people,3,人群
+234,老年痴呆有传染性吗,query_infect_way,4,传染性
+235,老年痴呆预防,query_prevent,12,预防
+236,帕金森是老年痴呆吗,query_cause,11,帕金森
+237,哪些项目可以检查老年痴呆,query_checklist,15,哪些项目 检查
+238,老年痴呆诊断结果,query_diagnosis,16,诊断
+239,老年痴呆引起的并发症,query_neopathy,13,引起 并发症
+240,早期老年痴呆症状,query_symptom,14,早期 状
+241,老年痴呆怎么查,query_checklist,15,查
+242,老年痴呆的表现,query_symptom,14,表现
+243,老年痴呆患病概率,query_infect_rate,2,患病 概率
+244,患老年痴呆可能性大吗,query_infect_rate,2,患 可能性
+245,老年痴呆年龄段,query_infect_people,3,年龄段
+246,老年痴呆的治疗,query_cureway,17,治疗
+247,老年痴呆医保报销,query_insurance,1,医保 报销
+248,防止得老年性痴呆的办法,query_prevent,12,防止 办法
+249,老年痴呆又叫什么名字,query_alias,0,名字
+250,老年痴呆传染么,query_infect_way,4,传染
+251,老年痴呆住院花多少钱,query_money,9,住院 花 钱
+252,老年痴呆饮食护理,query_food,19,饮食 护理
+253,老年痴呆其他的别名,query_alias,0,别名
+254,老年痴呆诊断类别,query_diagnosis,16,诊断 类别
+255,老年痴呆多久能好,query_period,6,多久
+256,老年痴呆的现状,query_cure_rate,7,现状
+257,如何检查老年痴呆,query_checklist,15,检查
+258,老年痴呆为什么时好时坏,disease_describe,10,时好时坏
+259,老年痴呆属于医保疾病吗,query_insurance,1,属于 医保 疾病
+260,哪个科室治疗老年痴呆,query_department,5,科室 治疗
+261,老年痴呆有医保吗,query_insurance,1,医保
+262,老年痴呆初期,query_symptom,14,初期
+263,脑萎缩与老年痴呆区别,query_cause,11,脑萎缩 区别
+264,老年痴呆持续多时间,query_period,6,持续 时间
+265,老年痴呆能痊愈吗,query_cure_rate,7,痊愈
+266,老年痴呆持续周期,query_period,6,持续 周期
+267,老年痴呆最初表现,query_symptom,14,最初 表现
+268,老年痴呆病人吃啥东西比较好,query_food,19,病人 吃 东西 比较
+269,什么是老年痴呆,disease_describe,10,
+270,老年性痴呆患者康复方式,query_nursing,18,患者 康复 方式
+271,老年痴呆要花钱厉害吗,query_money,9,花钱 厉害
+272,老年痴呆到医院检查什么,query_checklist,15,医院 检查
+273,老年痴呆吃什么药,query_curedrug,8,吃 药
+274,抗老年痴呆药物,query_curedrug,8,抗 药物
+275,老年痴呆针对哪些人群,query_infect_people,3,人群
+276,怎么认识老年痴呆,disease_describe,10,认识
+277,中医治疗老年痴呆,query_cureway,17,中医 治疗
+278,老年痴呆挂什么科,query_department,5,挂 科
+279,老年痴呆还有其他的别名,query_alias,0,别名
+280,老年痴呆并发症,query_neopathy,13,并发症
+281,老年痴呆诊断有哪些呢,query_diagnosis,16,诊断
+282,老年痴呆遗传吗,query_cause,11,遗传
+283,老年痴呆有哪些科,query_department,5,科
+284,老年痴呆做什么检查,query_checklist,15,做 检查
+285,老年痴呆症状表现,query_symptom,14,状 表现
+286,老年痴呆住院花多少钱,query_money,9,住院 花 钱
+287,老年痴呆又称什么,query_alias,0,又称
+288,老年痴呆怎么检查,query_checklist,15,检查
+289,老年痴呆怎么治疗,query_cureway,17,治疗
+290,老年痴呆怎么传染,query_infect_way,4,传染
+291,老年痴呆常见吗,query_infect_rate,2,常见
+292,如何预防老年性痴呆办法,query_prevent,12,预防 办法
+293,哪个科室看老年痴呆,query_department,5,科室
+294,老年痴呆治疗周期,query_period,6,治疗 周期
+295,老年痴呆医保类型,query_insurance,1,医保 类型
+296,老年痴呆早期表现,query_symptom,14,早期 表现
+297,老年痴呆的诊断,query_diagnosis,16,诊断
+298,引发老年痴呆的原因,query_cause,11,引发 原因
+299,老年痴呆都会得嘛,query_infect_rate,2,会
+300,老年痴呆叫什么,query_alias,0,
+301,老年痴呆传染性,query_infect_way,4,传染性
+302,老年痴呆是怎么回事,disease_describe,10,怎么回事
+303,老年痴呆的症状,query_symptom,14,症状
+304,老年痴呆会导致其他疾病吗,query_neopathy,13,会 导致 疾病
+305,老年痴呆症状怎么治疗,query_cureway,17,状 治疗
+306,老年痴呆病人吃啥比较好,query_food,19,病人 吃 比较
+307,老年痴呆引起的并发症,query_neopathy,13,引起 并发症
+308,老年痴呆的药,query_curedrug,8,药
+309,老年痴呆针对哪些人群,query_infect_people,3,人群
+310,老年痴呆哪些项目可以检查,query_checklist,15,哪些项目 检查
+311,中医如何认识老年痴呆,disease_describe,10,中医 认识
+312,老年痴呆诊断相关的内容,query_diagnosis,16,诊断 相关 内容
+313,老年痴呆容易得嘛,query_infect_rate,2,容易
+314,老年性痴呆有什么不能吃的,query_food,19,不能 吃
+315,老年痴呆有传染性吗,query_infect_way,4,传染性
+316,我现在忘记性特别大是否会是老年性痴呆,query_symptom,14,现在 忘记 性 特别 是否 会
+317,并发症老年痴呆,query_neopathy,13,并发症
+318,老年痴呆可能诊断的类型,query_diagnosis,16,可能 诊断 类型
+319,叔父前阵子中风幸好是轻度的住了一个星期院出来了他说朋友说吃...,query_food,19,叔父 前 阵子 中风 幸好 轻度 住 一个 星期 院 说 朋友 说 吃 ...
+320,老年痴呆怎么传染的,query_infect_way,4,传染
+321,老年性痴呆患者护理方式有哪些,query_nursing,18,患者 护理 方式
+322,老年性痴呆的发病原因是什么,query_cause,11,发病 原因
+323,老年痴呆还有哪些别名,query_alias,0,别名
+324,老年痴呆患病几率大不大,query_infect_rate,2,患病 几率 大不大
+325,老年痴呆能看好吗,query_cure_rate,7,看好
+326,检查老年痴呆的项目有哪些,query_checklist,15,检查 项目
+327,老年痴呆怎么挂科,query_department,5,挂科
+328,老年痴呆看病要多少钱啊,query_money,9,看病 钱
+329,老年性脑萎缩和老年性痴呆的区别？如何诊,query_cause,11,脑萎缩 区别  诊
+330,确诊为老年性痴呆该如何应对？,query_prevent,12,确诊 应对
+331,老年性痴呆初期如何减缓发展?,query_prevent,12,初期 减缓 发展
+332,老年性痴呆患者康复方式,query_nursing,18,患者 康复 方式
+333,什么是老年性痴呆,disease_describe,10,
+334,老年性痴呆是怎样的疾病,disease_describe,10,疾病
+335,老年痴呆多久能恢复,query_period,6,多久 恢复
+336,得了老年性痴呆症怎么办？,query_prevent,12,症
+337,老年痴呆传染性有吗,query_infect_way,4,传染性
+338,老年痴呆治疗时长,query_period,6,治疗 时 长
+339,患老年痴呆概率多少,query_infect_rate,2,患 概率
+340,预防老年性痴呆办法,query_prevent,12,预防 办法
+341,老年性痴呆，应采取何种治疗方法（,query_cureway,17, 应 采取 何种 治疗 方法
+342,脑蛋白水解物口服液小孩不爱喝怎么办,query_curedrug,8,脑 蛋白 水解 物 口服液 小孩 爱喝
+343,我妈妈有老年痴呆几年了经常忘记身边的人的名字她吃思博海盐酸...,query_curedrug,8,妈妈 几年 经常 忘记 身边 名字 吃 思博海 盐酸 ...
+344,并发症老年痴呆,query_neopathy,13,并发症
+345,您好！患者男80岁，感冒后忘性大眼神发,query_symptom,14,您好  患者 男 80 岁  感冒 忘性 眼神 发
+346,小孩子会得老年痴呆吗,query_infect_people,3,小孩子 会得
+347,老年痴呆病人吃啥比较好,query_food,19,病人 吃 比较
+348,老年性痴呆如何保健护理,query_nursing,18,保健 护理
+349,老年痴呆治好不,query_cure_rate,7,治好
+350,如何护理老年性痴呆患者？,query_nursing,18,护理 患者
+351,老年痴呆针对哪些人群,query_infect_people,3,人群
+352,老年痴呆能用医保吗,query_insurance,1,医保
+353,如何对智力低下儿童进行康复治疗,query_nursing,18,智力 低下 儿童 进行 康复 治疗
+354,请问老年性痴呆症怎么治疗？,query_cureway,17,请问 症 治疗
+355,治疗老年性痴呆盐酸甲氯芬酯胶囊是特效病吗,query_curedrug,8,治疗 盐酸 甲氯芬 酯 胶囊 特效 病
+356,老年痴呆怎么传染的,query_infect_way,4,传染
+357,老年痴呆花多少钱,query_money,9,花 钱
+358,老年痴呆容易得嘛,query_infect_rate,2,容易
+359,老年性痴呆症又叫什么名字,query_alias,0,症 名字
+360,为什么用脑过度不会引起老年性痴呆,query_cause,11,用脑 过度 不会 引起
+361,老年痴呆还有哪些称呼,query_alias,0,称呼
+362,老年痴呆患病几率大不大,query_infect_rate,2,患病 几率 大不大
+363,睡觉前烦躁如何解决？？您好:我的情况是如...,query_symptom,14,睡觉 前 烦躁 解决   您好 情况 ...
+364,老年性痴呆有什么不能吃的？,query_food,19,不能 吃
+365,老年性痴呆的表现有哪些？,query_symptom,14,表现
+366,老年痴呆的检查方式,query_checklist,15,检查 方式
+367,老年痴呆能医治吗，有没有比较疗效好的药物,query_curedrug,8,医治  有没有 比较 疗效 药物
+368,与老年痴呆诊断相关的内容,query_diagnosis,16,诊断 相关 内容
+369,检查老年痴呆,query_checklist,15,检查
+370,老年痴呆诊断情况,query_diagnosis,16,诊断 情况
+371,老年痴呆治疗时间,query_period,6,治疗 时间
+372,医生您好请问复方吡拉西坦脑蛋白水解物片是不是治疗病毒性脑膜炎,query_curedrug,8,医生 您好 请问 复方 吡 拉西 坦脑 蛋白 水解 物片 是不是 治疗 病毒性 脑膜炎
+373,记忆力减退用复方活脑舒胶囊有没有效果的,query_curedrug,8,记忆力 减退 复方 活脑 舒 胶囊 有没有 效果
+374,我父亲今年63岁曾经患过脑梗塞吃过药了但是最近又复发有什么...,query_curedrug,8,父亲 今年 63 岁 曾经 患过 脑梗塞 吃 过药 最近 复发 ...
+375,老年痴呆可能诊断的类型,query_diagnosis,16,可能 诊断 类型
+376,老年痴呆有哪些科室,query_department,5,科室
+377,为什么用脑过度不会引起老年性痴呆？,query_cause,11,用脑 过度 不会 引起
+378,老年痴呆花很多钱,query_money,9,花 很多 钱
+379,老人家70岁，近1年感觉记忆力减退，健忘...,query_symptom,14,老人家 70 岁  近 年 感觉 记忆力 减退  健忘 ...
+380,老年性痴呆该怎么办好？,query_nursing,18,
+381,老年痴呆传染人吗,query_infect_way,4,传染
+382,黑龙江哪家看脑萎缩好...,query_cureway,17,黑龙江 哪家 脑萎缩 ...
+383,老年性痴呆的先兆有哪些？,query_symptom,14,先兆
+384,老年痴呆患者的护理方式,query_nursing,18,患者 护理 方式
+385,克瑞帕可以用于老人痴呆的治疗吗,query_cureway,17,克瑞帕 用于 老人 治疗
+386,老年性痴呆症患者服用欧来宁能有效改善只能障碍的症状吗,query_curedrug,8,症 患者 服用 欧来 宁能 有效 改善 只能 障碍 症状
+387,老年性痴呆是脑退化吗,disease_describe,10,脑 退化
+388,脑梗塞有什么特效药吗？,query_curedrug,8,脑梗塞 特效药
+389,老年痴呆治好不,query_cure_rate,7,治好
+390,老年痴呆多久能看好,query_period,6,多久 看好
+391,老年性痴呆咋治疗,query_cureway,17,治疗
+392,年轻人会得老年痴呆不,query_infect_people,3,年轻人 会得
+393,老年痴呆挂号,query_department,5,挂号
+394,如何预防老年性痴呆,query_prevent,12,预防
+395,判断老年痴呆有医保吗,query_insurance,1,判断 医保
+396,老年性痴呆吃什么好,query_food,19,吃
+397,老年痴呆其他名称,query_alias,0,名称
+398,奥拉西坦胶囊副作用有哪些,query_curedrug,8,奥拉 西坦 胶囊 副作用
+399,老年性痴呆不会说话也不认识人大小便不知道...,query_symptom,14,不会 说话 认识 大小便 知道 ...
+400,哪个科室挂老年痴呆,query_department,5,科室 挂
+401,心脑一号对治疗老年性痴呆、小脑..,query_curedrug,8,心脑 一号 治疗  小脑 ..
+402,老年痴呆诊断的类型,query_diagnosis,16,诊断 类型
+403,老年痴呆属于医保疾病吗,query_insurance,1,属于 医保 疾病
+404,P岁P患糖尿病10年2005年10月开始...,query_cause,11,P 岁 P 患 糖尿病 10 年 2005 年 10 月 ...
+405,老年人脑瘤请问如何治疗？急！！！,query_cureway,17,脑瘤 请问 治疗  急
+406,老年性痴呆有什么并发症吗,query_neopathy,13,并发症
+407,老年痴呆要花钱厉害吗,query_money,9,花钱 厉害
+408,紧急提问,disease_describe,10,紧急 提问
+409,老年性痴呆的鉴别诊断有哪些,query_diagnosis,16,鉴别 诊断
+410,老年痴呆多长时间能治好,query_period,6,多长时间 能治好
+411,老年性痴呆患者应该吃啥,query_food,19,患者 应该 吃
+412,老年痴呆又名为,query_alias,0,又名
+413,你好安理申的效果怎么样,query_curedrug,8,你好 安理申 效果
+414,老年性痴呆用药有哪些,query_curedrug,8,用药
+415,忘了关水关灯，是否就是老年性痴呆,query_symptom,14,忘 关水 关灯  是否
+416,老年性痴呆症吃什么药,query_curedrug,8,症 吃 药
+417,患老年痴呆的几率,query_infect_rate,2,患 几率
+418,老年痴呆治疗,query_cureway,17,治疗
+419,老年痴呆患者如何康复,query_nursing,18,患者 康复
+420,老年痴呆挂什么部门,query_department,5,挂 部门
+421,老年痴呆会引起其他疾病吗,query_neopathy,13,会 引起 疾病
+422,老年痴呆医学名称,query_alias,0,医学 名称
+423,老年痴呆能治好吗,query_cure_rate,7,能治好
+424,许些人名重复了多次到时却突然想不起来怎么...,query_symptom,14,许些 人名 重复 多次 时 突然 想不起来 ...
+425,老年痴呆通过什么传染,query_infect_way,4,传染
+426,老年痴呆咋治疗,query_cureway,17,治疗
+427,老年痴呆患者如何护理,query_nursing,18,患者 护理
+428,如何护理老年性痴呆患者,query_nursing,18,护理 患者
+429,并发症和老年痴呆,query_neopathy,13,并发症
+430,老年性痴呆吃什么好？,query_food,19,吃
+431,老年性痴呆是怎么回事,disease_describe,10,怎么回事
+432,老年痴呆看多次时间,query_period,6,多次 时间
+433,老年痴呆容易得嘛,query_infect_rate,2,容易
+434,怎么预防老年性痴呆,query_prevent,12,预防
+435,老年痴呆如何诊断,query_diagnosis,16,诊断
+436,老年性痴呆的鉴别有哪些,query_diagnosis,16,鉴别
+437,判断老年痴呆有医保吗,query_insurance,1,判断 医保
+438,老年痴呆看哪些科,query_department,5,科
+439,老年痴呆挂哪个科室,query_department,5,挂 科室
+440,老年痴呆患者如何恢复,query_nursing,18,患者 恢复
+441,老年痴呆治好不,query_cure_rate,7,治好
+442,老年痴呆花钱不,query_money,9,花钱
+443,年轻人会得老年痴呆不,query_infect_people,3,年轻人 会得
+444,老年性痴呆老年性痴呆,disease_describe,10,老年性痴呆
+445,老年痴呆又名为,query_alias,0,又名
+446,中毒性痴呆,query_cause,11,中 毒性
