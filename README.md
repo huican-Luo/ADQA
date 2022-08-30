@@ -9,9 +9,6 @@
 1、搭建知识图谱：python build_AD_graph.py
 2、启动问答测试：python AD_QA.py
 
-# 项目效果 #
-![系统运行效果图](https://github.com/zhihao-chen/QASystemOnMedicalGraph/blob/master/img/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
-
 # 老年痴呆知识图谱
 数据来源：寻医问药网。
 
