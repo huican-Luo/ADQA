@@ -6,8 +6,8 @@
 # 项目运行方式
 运行环境：Python3.7      数据库：neo4j
 1、数据爬取：python climb_Alzheimer'_disease.py
-1、搭建知识图谱：python build_AD_graph.py
-2、启动问答测试：python AD_QA.py
+2、搭建知识图谱：python build_AD_graph.py
+3、启动问答测试：python AD_QA.py
 
 # 老年痴呆知识图谱
 数据来源：寻医问药网。
@@ -24,15 +24,15 @@
 | Diagnosis    | 诊断     | 抑郁症             |
 | Infect_people| 患病人群 | 老年人             |
 | Inspect_Type | 检查类型 | 海马像检查          |
-| Department   | 所属科室 | 感染科，外科        |
-| Symptom      | 症状     | 手足烦热，四肢麻木  |
+| Department   | 所属科室 | 内科，神经内科      |
+| Symptom      | 症状     | 记性不好，找不到方向|
 | Nursing_Type | 护理种类 | 一般护理            |
 | Prevent      | 预防     | 适度运动           |
 | Prevent_Type | 预防种类 | 健康教育           |
 | Neopathy     | 并发症   | 便秘               |
 | Drug         | 药品     | 盐酸多奈哌齐片     |
 | Treat        | 治疗     | 强化记忆           |
-| Treat_type   | 治疗种类 | 强化记忆           |
+| Treat_type   | 治疗种类 | 心理治疗，药物治疗  |
 
 **1.2 知识图谱疾病属性**
 
@@ -51,7 +51,7 @@
 
 # 问题意图识别
 贝叶斯分类 + 规则方法
-一共识别20种意图类别，由于种类较多，自己训练效果不理想，故借用[https://github.com/zhihao-chen/QASystemOnMedicalGraph]的7分类模型+自定义规则筛选方法
+一共识别20种意图类别，由于种类较多，自己训练效果不理想，故借用 [ https://github.com/zhihao-chen/QASystemOnMedicalGraph ] 的7分类模型+自定义规则筛选方法
 
 # 总结
 1、本项目构建简单，但麻雀虽小，五脏俱全，能够了解知识图谱建立过程。
